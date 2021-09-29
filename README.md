@@ -16,6 +16,8 @@
   </a>
 </p>
 
+**🤗 最近备战考研中，期望愿意翻译的你参与进来，欢迎 PR**
+
 > 以下信息来自 Atomic Kotlin 官网：https://www.atomickotlin.com/
 
 **《Atomic Kotlin》** 及配套学习资源由 Bruce Eckel 和 Svetlana Isakova 合著。
