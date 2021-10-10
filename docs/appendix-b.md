@@ -1,4 +1,4 @@
-# Appendix B: Java Interoperability
+# 附录 B：Java 互操作性
 
 > This appendix describes issues and techniques for interfacing between Kotlin and Java.
 

@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/travis/com/Angus-Liu/Atomic-Kotlin-zh/main?style=flat-square"/>
   </a>
 </p>
-
 **🤗 最近备战考研中，期望愿意翻译的你参与进来，欢迎 PR**
 
 > 以下信息来自 Atomic Kotlin 官网：https://www.atomickotlin.com/

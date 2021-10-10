@@ -1,4 +1,4 @@
-# Appendix A: AtomicTest
+# 附录 A：AtomicTest
 
 > This minimal test framework is used to validate the book examples. It also helps introduce and promote unit testing early in the learning process.
 
