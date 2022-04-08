@@ -36,7 +36,7 @@ module.exports = {
           '/': [
             'copyright',
             {
-              title: '第一节 编程基础',
+              title: '第一章 编程基础',
               path: 'se01',
               collapsable: false,
               children: [
